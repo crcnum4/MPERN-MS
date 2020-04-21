@@ -15,11 +15,11 @@
 ## MPERN
 
 <p>I am using an MPERN stack as a proof of concept that a Javascript focused stack can be used to develop a microservice architecture. The tools used to be clear are:</p>
-* M - Mongo (mongoose for db communication)
-* P - Postgresql (pg for db communication)
-* E - Express.js for routing
-* R - React Front End
-* N - Node Server
+- M - Mongo (mongoose for db communication)
+- P - Postgresql (pg for db communication)
+- E - Express.js for routing
+- R - React Front End
+- N - Node Server
 <p>Note: I have considered calling this a MPERNS stack due to the planned addition of a chat microservice using Socket.io for real-time chatting.</p>
 
 ## links
