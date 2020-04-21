@@ -12,6 +12,16 @@
 
 <p>the system is deviced into multiple servers with and seperate databases user only interacts directly with either the gateway or the socket.io server which then requests are sent to the required services which can then interact with other services if additional information is needed.</p>
 
+## MPERN
+
+<p>I am using an MPERN stack as a proof of concept that a Javascript focused stack can be used to develop a microservice architecture. The tools used to be clear are:</p>
+* M - Mongo (mongoose for db communication)
+* P - Postgresql (pg for db communication)
+* E - Express.js for routing
+* R - React Front End
+* N - Node Server
+<p>Note: I have considered calling this a MPERNS stack due to the planned addition of a chat microservice using Socket.io for real-time chatting.</p>
+
 ## links
 
 <p>below are the links to each microservice.</p>
