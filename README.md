@@ -6,7 +6,7 @@
 
 ## Design Architecture Concept
 
-![design-concept][https://drive.google.com/open?id=1tohekhel9xwvudioanfem8249q8iet2t]
+![design-concept](https://drive.google.com/open?id=1tohekhel9xwvudioanfem8249q8iet2t)
 
 ## construct
 
