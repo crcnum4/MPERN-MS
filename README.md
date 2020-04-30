@@ -6,7 +6,7 @@
 
 ## Design Architecture Concept
 
-![design-concept](https://photos.app.goo.gl/N7NHaGVs2PDoTwy1A "design")
+![design-concept](architecture.jpg "design")
 
 ## Construction
 
